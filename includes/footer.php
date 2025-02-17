@@ -58,13 +58,13 @@
             <a href="" class="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call : +44 1234567890
+                Call : +44 7397 035919
               </span>
             </a>
             <a href="" class="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                sitedefenceltd@gmail.com
+                sitedefenceltd000@gmail.com
               </span>
             </a>
           </div>
