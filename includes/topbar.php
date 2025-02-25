@@ -16,7 +16,7 @@
             <a href="" class="contact_link3">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                sitedefenceltd000@gmail.com
+              info@sitedefenceltd.com
               </span>
             </a>
           </div>

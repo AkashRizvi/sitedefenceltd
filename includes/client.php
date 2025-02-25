@@ -3,7 +3,7 @@
     <div class="container ">
       <div class="heading_container heading_center">
         <h2>
-          What is says our clients
+          What does our clients says
         </h2>
       </div>
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -30,13 +30,10 @@
               </div>
               <div class="detail-box">
                 <h4>
-                  Minim Veniam
+                  Client
                 </h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                  ullamco laboris nisi ut aliquip
+                Our clients trust us for reliable security solutions. Their positive feedback reflects our commitment to safety, professionalism, and excellence. We take pride in safeguarding businesses, offices, and public spaces with dedicated services tailored to their needs.
                 </p>
               </div>
             </div>
@@ -48,13 +45,10 @@
               </div>
               <div class="detail-box">
                 <h4>
-                  Minim Veniam
+                  Client
                 </h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                  ullamco laboris nisi ut aliquip
+                Our clients trust us for reliable security solutions. Their positive feedback reflects our commitment to safety, professionalism, and excellence. We take pride in safeguarding businesses, offices, and public spaces with dedicated services tailored to their needs.
                 </p>
               </div>
             </div>

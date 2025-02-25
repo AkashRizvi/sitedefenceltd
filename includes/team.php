@@ -12,11 +12,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/t1.jpg" alt="">
+              <img src="images/t1.webp" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Martin Anderson
+                Talha Ahmed
               </h5>
               <h6 class="">
                 supervisor
@@ -27,11 +27,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/t2.jpg" alt="">
+              <img src="images/t2.webp" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Denny Butler
+                Sufyan Talha
               </h5>
               <h6 class="">
                 supervisor
@@ -42,11 +42,11 @@
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/t3.jpg" alt="">
+              <img src="images/t3.webp" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Nathan Mcpherson
+                Farhan Talha
               </h5>
               <h6 class="">
                 supervisor

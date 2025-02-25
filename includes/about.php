@@ -21,7 +21,7 @@
             <p class="text-justify">
               We pride ourselves in offering our clients an unparalleled standard of service.
 
-We are committed to continued investment in ongoing training and education of our staff to ensure a quality support to our operations. We all are exposed to different security threats, which are unavoidable, and a quick response and constant monitoring are required. We can take that burden away from you and you can have peace of mind knowing that Kingfisher is securing your assets.
+We are committed to continued investment in ongoing training and education of our staff to ensure a quality support to our operations. We all are exposed to different security threats, which are unavoidable, and a quick response and constant monitoring are required. We can take that burden away from you and you can have peace of mind knowing that <b>SITE DEFENCE LTD</b> is securing your assets.
             </p>
             <div class="btn-box">
               <a href="" class="rounded-pill">
